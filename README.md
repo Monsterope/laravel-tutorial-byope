@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## ข้อควางของผู้พัฒนา
+## ข้อความจากผู้พัฒนา (Message for Developer)
 
 ใช้สำหรับการศึกษา laravel พื้นฐานเท่านั้น ห้ามนำไปจำหน่าย
 
