@@ -91,7 +91,7 @@ class ClassroomController extends Controller
             return $this->ResponseMsgError("Please input id classroom", 400);
         }
         Classroom::where("id", $id)->delete();
-        return $this->ResponseBody([], 204);
+        return $this->ResponseBody("", 204, true);
         
     }
     
